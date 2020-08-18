@@ -1,0 +1,29 @@
+{
+  "name": "itisproduction",
+  "version": "1.0.0",
+  "description": "delete debugger,console.log,and so on",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zztisoftwyj/itisproduction.git"
+  },
+  "keywords": [
+    "debugger",
+    "production"
+  ],
+  "author": "wangyj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zztisoftwyj/itisproduction/issues"
+  },
+  "homepage": "https://github.com/zztisoftwyj/itisproduction#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "webpack": "^4.44.1"
+  }
+}
